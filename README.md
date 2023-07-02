@@ -24,6 +24,31 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me, well I have attached my linkedin and twitter page
 
+<div>
+  <h1>
+    MY Stats
+  </h1>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=WarsayT&theme=radical&show_icons=true&rank_icon=percentile" />
+  </div>
+</div>
+
+<div>
+  <h1>Langueges</h1>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarsayT&size_weight=0.5&count_weight=0.5" />
+  </div>
+</div>
+
+<div>
+  <h1>
+    Wakatime Stats
+  </h1>
+  <!---<div>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=warsayT&layout=compact" />
+  </div>
+</div> --->
+
 <!---
 WarsayT/WarsayT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
